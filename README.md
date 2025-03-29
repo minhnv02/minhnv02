@@ -1,4 +1,4 @@
-<h1 align="center">I'm Minh Ngo</h1>
+<h1 align="center">Hello! I'm Minh Ngo</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
 <p align="center">
