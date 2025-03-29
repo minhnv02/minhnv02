@@ -8,9 +8,6 @@
   👨‍🏫 Currently, I'm also a lecturer at MindX Technology School, where I share my knowledge and inspire future developers.<br>
 </p>
 
-🌐 **Link GameMaker:**  
-- [GameMaker Official Site](https://www.yoyogames.com/gamemaker)  
-
 ---
 
 ### 🌐 Connect with me:
@@ -24,6 +21,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)  
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)  
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
@@ -45,11 +43,21 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-  
-[Python Official Site](https://www.python.org/)  
-[Python for .NET Developers (Python.NET)](https://pythonnet.github.io/)  
 
 ---
+
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <div>🌐 <strong>Link GameMaker:</strong><br>
+    - <a href="https://www.yoyogames.com/gamemaker">GameMaker Official Site</a>
+  </div>
+  <div>🌐 <strong>Link Python:</strong><br>
+    - <a href="https://www.python.org/">Python Official Site</a><br>
+    - <a href="https://pythonnet.github.io/">Python for .NET Developers (Python.NET)</a>
+  </div>
+</div>
+
+---
+
 
 
 
