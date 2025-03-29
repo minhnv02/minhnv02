@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Minh Ngo</h1>
-<h3 align="center">I'm a Software Engineer and Programming lectures</h3>
+<h3 align="center">I'm a Software Engineer and Programming Lectures</h3>
 
 <p align="center">
   🚀 I'm a passionate and hardworking developer who loves coding and solving problems.<br>
