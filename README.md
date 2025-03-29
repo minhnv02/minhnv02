@@ -10,7 +10,7 @@
 ---
 
 ### 🌐 Connect with me:
-- 💼 LinkedIn: [LinkedIn]([https://www.linkedin.com]https://www.linkedin.com/in/minh-ngo-057a0b317/)
+- 💼 LinkedIn: [[LinkedIn]([https://www.linkedin.com]https://www.linkedin.com/in/minh-ngo-057a0b317/)](https://www.linkedin.com/in/minh-ngo-057a0b317/)
 - 📧 Email: minhngo01022002@gmail.com
 
 ---
