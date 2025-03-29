@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">I'm Minh Ngo</h1>
+<h3 align="center">I'm a Software Engineer</h3>
 
-<!--
-**minhnv02/minhnv02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 I'm a passionate and hardworking developer who loves coding and solving problems.<br>
+  💻 Always eager to learn new technologies and improve my skills.<br>
+  ❤️ Coding is not just my job, it's my passion!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me:
+- 💼 LinkedIn: [LinkedIn]([https://www.linkedin.com]https://www.linkedin.com/in/minh-ngo-057a0b317/)
+- 📧 Email: minhngo01022002@gmail.com
+
+---
+
+### 🚀 Technologies and Tools:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
